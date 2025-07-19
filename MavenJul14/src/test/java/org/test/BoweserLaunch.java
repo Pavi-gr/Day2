@@ -10,7 +10,7 @@ public class BoweserLaunch {
 	
 	public static void main(String[] args) {
 //		WebDriverManager.chromedriver().setup();
-//		WebDriver driver=new ChromeDriver();
+//		WebDriver driver=new ChromeDriver(); add some one
 		
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver=new EdgeDriver();

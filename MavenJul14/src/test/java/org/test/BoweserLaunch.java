@@ -18,6 +18,7 @@ public class BoweserLaunch {
 		
 		
 		driver.get("https://www.facebook.com/");
+		driver.get("Welcone");
 		
 	}
 

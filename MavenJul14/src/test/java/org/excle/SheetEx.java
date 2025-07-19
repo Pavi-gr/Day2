@@ -15,7 +15,7 @@ public class SheetEx {
 	
 	public static void main(String[] args) throws IOException {
 		
-		File f=new File("C:\\Users\\muthu\\Downloads\\Book2.xlsx");
+		.args.File f=new File("C:\\Users\\muthu\\Downloads\\Book2.xlsx");
 		
 		FileInputStream s=new FileInputStream(f);
 		
